@@ -3,6 +3,16 @@
 Created on Sun Mar 31 21:30:01 2019
 
 @author: zeinab
+Welcome to the Cow and Bull Game. In this game the code will randomely choose a 4 digit number.
+You should guess the number. For every digit that you guessed correctly in the right position you will get a "cow".
+For every digit that you guessed correctly but in the wrong possition you will get a "bull". 
+For Example, the random number is 1234. 
+If you guess 1354 you will get 2 cow (for 1 and 4) and 1 bull (for 3).
+The game ends when you guess the number correctly. 
+Type "break" if you want to end the game. 
+Note: the number could have duplicate digits! 
+
+enjoy!
 """
 
 import random 
